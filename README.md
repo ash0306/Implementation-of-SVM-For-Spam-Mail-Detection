@@ -28,15 +28,15 @@ Register Number: 212220040020
 
 ## Output:
 1. result\
-![SVM For Spam Mail Detection](images/1.png)\
+![SVM For Spam Mail Detection](images/1.png)
 2. data.head()\
-![SVM For Spam Mail Detection](images/2.png)\
+![SVM For Spam Mail Detection](images/2.png)
 3. data.info()\
-![SVM For Spam Mail Detection](images/3.png)\
+![SVM For Spam Mail Detection](images/3.png)
 4. data.isnull().sum()\
-![SVM For Spam Mail Detection](images/4.png)\
+![SVM For Spam Mail Detection](images/4.png)
 5. y_pred\
-![SVM For Spam Mail Detection](images/5.png)\
+![SVM For Spam Mail Detection](images/5.png)
 6. accuracy\
 ![SVM For Spam Mail Detection](images/6.png)
 
